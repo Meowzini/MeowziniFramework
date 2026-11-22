@@ -1,0 +1,12 @@
+﻿{
+  "name": "com.meowzini.framework",
+  "version": "1.0.0",
+  "displayName": "Meowzini Framework",
+  "description": "Meowzini Framework and Unity Editor tools.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Meowzini"
+  },
+  "dependencies": {}
+}

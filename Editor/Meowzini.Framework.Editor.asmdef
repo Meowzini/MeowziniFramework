@@ -1,0 +1,8 @@
+﻿{
+    "name": "Meowzini.Framework.Editor",
+    "rootNamespace": "Meowzini.Framework.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
